@@ -7,3 +7,8 @@ valor = input().split(" ")
 a, b, c = valor
 </pre>
 
+### Potencia
+<pre>
+import math
+math.pow(radius, 2)
+</pre>
