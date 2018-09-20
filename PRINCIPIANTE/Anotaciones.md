@@ -12,3 +12,15 @@ a, b, c = valor
 import math
 math.pow(radius, 2)
 </pre>
+
+### Raiz cuadrada
+<pre>
+import math
+math.sqrt(valor)
+</pre>
+
+### rango en if
+Comparar un rango de dos valores
+<pre>
+if 0 <= valor <= 25
+</pre>
