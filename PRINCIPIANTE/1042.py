@@ -10,11 +10,11 @@ b = int(b)
 c = int(c)
 
 listNumber = [a, b, c]
-listNumberSorterd = listNumber[:]
-listNumberSorterd.sort()
+listNumberSorted = listNumber[:]
+listNumberSorted.sort()
 
 while i < 3:
-    print("%d" % listNumberSorterd[i])
+    print("%d" % listNumberSorted[i])
     i = i + 1
 
 print("")
