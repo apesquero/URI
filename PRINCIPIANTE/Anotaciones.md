@@ -24,3 +24,10 @@ Comparar un rango de dos valores
 <pre>
 if 0 <= valor <= 25
 </pre>
+
+### for con rango
+Hacer un for x número de veces
+<pre>
+for x in range(6)
+    valor = float(input())
+</pre>
