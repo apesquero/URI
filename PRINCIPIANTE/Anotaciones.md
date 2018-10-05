@@ -10,7 +10,7 @@ a, b, c = valor
 ### Lista con numeros enteros directamente
 Se asignan dichos valores partidos a una lista
 <pre>
-
+valores = [float(x) for x in input().split(" ")]
 </pre>
 
 ### Potencia
