@@ -7,6 +7,12 @@ valor = input().split(" ")
 a, b, c = valor
 </pre>
 
+### Lista con numeros enteros directamente
+Se asignan dichos valores partidos a una lista
+<pre>
+
+</pre>
+
 ### Potencia
 <pre>
 import math
