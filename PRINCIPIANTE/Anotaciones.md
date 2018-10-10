@@ -37,3 +37,9 @@ Hacer un for x número de veces
 for x in range(6)
     valor = float(input())
 </pre>
+
+### imprimir valores que pueden ser decimales o no
+<pre>
+i = 1.0
+print("I={:g}" .format(i))
+</pre>
