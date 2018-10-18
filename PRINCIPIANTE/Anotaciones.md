@@ -43,3 +43,10 @@ for x in range(6)
 i = 1.0
 print("I={:g}" .format(i))
 </pre>
+
+### ordenar listas
+<pre>
+lista = [5, 7, 3, 1]
+lista.sort()
+</pre>
+
