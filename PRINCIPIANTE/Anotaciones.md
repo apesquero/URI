@@ -50,3 +50,8 @@ lista = [5, 7, 3, 1]
 lista.sort()
 </pre>
 
+### invertir listas
+<pre>
+lista = [5, 7, 3, 1]
+lista.reverse()
+</pre>
